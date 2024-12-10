@@ -2,10 +2,10 @@
 
  gioi thieu
 
- #congnghe
+ # congnghe
 
 laravel frramework
 php
 database: mýql
 
-#uml: so do chuc nang
+# uml: so do chuc nang
