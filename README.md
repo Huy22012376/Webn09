@@ -9,3 +9,4 @@ php
 database: mýql
 
 # uml: so do chuc nang
+composer create-project --prefer-dist laravel/laravel libraryApp
